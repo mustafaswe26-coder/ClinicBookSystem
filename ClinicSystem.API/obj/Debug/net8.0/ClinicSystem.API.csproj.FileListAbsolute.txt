@@ -281,3 +281,4 @@ D:\PROJECTS\ClinicSystem\ClinicSystem.API\obj\Debug\net8.0\refint\ClinicSystem.A
 D:\PROJECTS\ClinicSystem\ClinicSystem.API\obj\Debug\net8.0\ClinicSystem.API.pdb
 D:\PROJECTS\ClinicSystem\ClinicSystem.API\obj\Debug\net8.0\ClinicSystem.API.genruntimeconfig.cache
 D:\PROJECTS\ClinicSystem\ClinicSystem.API\obj\Debug\net8.0\ref\ClinicSystem.API.dll
+D:\PROJECTS\ClinicSystem\ClinicSystem.API\obj\Debug\net8.0\ClinicSystem.API.sourcelink.json
